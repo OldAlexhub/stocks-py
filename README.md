@@ -10,7 +10,7 @@ This project is a Flask-based web application that predicts stock prices using h
 - **Analyst Recommendations:** Shows analyst price targets and ratings (buy, hold, sell).
 - **Insider Trading:** Displays insider trading data for the company.
 - **Next Earnings Date:** Fetches the next earnings date for the company.
-  
+
 ## Tech Stack
 
 - **Flask:** Python web framework to handle HTTP requests and build APIs.
@@ -18,7 +18,7 @@ This project is a Flask-based web application that predicts stock prices using h
 - **Prophet:** A forecasting tool to predict stock prices based on historical data.
 - **Pandas & NumPy:** Used for data manipulation and calculations.
 - **Flask-CORS:** To enable Cross-Origin Resource Sharing.
-  
+
 ## Setup and Installation
 
 ### Prerequisites
@@ -30,5 +30,6 @@ This project is a Flask-based web application that predicts stock prices using h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-prediction-api.git
+   git clone https://github.com/OldAlexhub/stocks-py.git
    cd stock-prediction-api
+   ```
